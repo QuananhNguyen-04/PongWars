@@ -1,11 +1,11 @@
 BEFORE RUNNING:
-Install Python, Pygame, Standard Libs
+  Install Python, Pygame, Standard Libs
 
 PLAYING RULES:
-Speed Up:
-- Player 1: W
-- Player 2: Up-arrow
-Replay (only when game end): R
+  Speed Up:
+  - Player 1: W
+  - Player 2: Up-arrow
+  Replay (only when game end): R
 
 Everytime players use spell consume money (adding up along playing time) and spell have CDs.
 Game will finish if any players' territories drops below 20% (20pts). 
